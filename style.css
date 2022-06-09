@@ -4,7 +4,7 @@
 }
 
 table {
-    background-color: rgb(212, 0, 255);
+    background-color: aquamarine;
     border: 1px solid #000;
 }
 
@@ -19,4 +19,5 @@ th, td {
 
 body{
     background-color: beige;
+    border: 1px solid #000
 }
